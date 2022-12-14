@@ -1,0 +1,4 @@
+Trans,java -jar stub1.jar
+Tax, java -jar stub2.jar
+Msg,/bin/message.exe
+TB,java TextBroker
